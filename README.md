@@ -33,7 +33,7 @@ Sistem, **5 Girişli ve 1 Çıkışlı** gelişmiş bir mimariye sahiptir. Tüm 
 
 ## 📊 Üyelik Fonksiyonları Grafikleri
 
-*(Not: Aşağıdaki grafikleri GitHub'da görüntüleyebilmek için, uygulamanızın 2. sekmesinden aldığınız ekran görüntülerini proje klasörü içine `assets` adında bir klasör açıp içine kaydetmelisiniz)*
+
 
 ### 1. Hasar Yoğunluğu
 ![Hasar Yoğunluğu](assets/hasar_yogunlugu.png)
